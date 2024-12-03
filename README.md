@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdulraheem232
 - 👀 I’m interested in web development and app development
-- 🌱 I’m currently learning full stack development almost done
+- 🌱 I’m currently planing to learn ml,ai 
 - 💞️ I’m looking to collaborate on a good designer and logic builder
 - 📫 Mail me at abdulraheemabdullah859@gmail.com or phonenumber whatsapp +9203219160283
 - 😄 Pronouns: He , His , Him
