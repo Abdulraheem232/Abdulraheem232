@@ -37,7 +37,7 @@
 ### 🛠️ Tech I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,flask,django,pytorch,opencv,selenium,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cloudinary,graphql,python,pytorch,opencv,selenium,git,github,vscode" />
 </p>
 
 ---
