@@ -12,6 +12,7 @@
 <div style="display: flex; align-items: center;">
   <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" />
   <ul>
+    <li>My dream goal <strong>Stable Diffusion</strong>Artificial Consciousness, Artificial General Intellignece, Human cloning using artificial intelligence and robotics for this i need a good environment and great research thats why i want to go a country that would fascilitate me</li> 
     <li>👨‍💻 I’m currently exploring <strong>Stable Diffusion</strong> and generative AI</li>
     <li>🔭 I love building things with <strong>Transformers, PyTorch, Selenium, and OpenCV</strong></li>
     <li>🌱 Always learning new tech — especially in <strong>Web & App Dev</strong></li>
